@@ -1,0 +1,11 @@
+Add animal images and audio here. Example filenames referenced by data/animals.json:
+- lion-thumb.jpg, lion-hero.jpg, lion-range.png, lion-roar.mp3
+- elephant-thumb.jpg, elephant-hero.jpg, elephant-range.png, elephant.mp3
+- penguin-thumb.jpg, penguin-hero.jpg, penguin-range.png, penguin.mp3
+- giraffe-thumb.jpg, giraffe-hero.jpg, giraffe-range.png, giraffe.mp3
+- tiger-thumb.jpg, tiger-hero.jpg, tiger-range.png, tiger.mp3
+- panda-thumb.jpg, panda-hero.jpg, panda-range.png, panda.mp3
+- camel-thumb.jpg, camel-hero.jpg, camel-range.png, camel.mp3
+- shark-thumb.jpg, shark-hero.jpg, shark-range.png, shark.mp3
+- eagle-thumb.jpg, eagle-hero.jpg, eagle-range.png, eagle.mp3
+- polarbear-thumb.jpg, polarbear-hero.jpg, polarbear-range.png, polarbear.mp3
